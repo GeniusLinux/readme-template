@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://github.com/GeniusLinux/readme-themes/blob/main/geliuslinux_logo.png"/>
+  <img width="100" src="https://github.com/GeniusLinux/readme-template/blob/main/geniuslinux_logo.png"/>
 </p>
 
 <h1 align="center">Information General</h1>
